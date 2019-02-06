@@ -1,2 +1,2 @@
 # Weeding Site
-Acest repertoriu cuprinde un exemplu de site pentru tinerii care urmeaza sa se casatoreasca si isi doresc sa isi distribuie informatiile catre invitati printr-o carte de vizita electronica. https://mineaco.github.io/Weeding-Site/.
+This repository includes an example of a webpage for young people who are about to get married and want to distribute information to guests through an e-business card. https://mineaco.github.io/Weeding-Site/.
